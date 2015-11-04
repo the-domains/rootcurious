@@ -1,0 +1,23 @@
+name: RootCurious
+favicon: null
+layout_spectrum: 0.11773556866683066
+typography_spectrum: 0.18515477725304663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7238608717452735
+  lightness: 0.5610610689036548
+  saturation: 0.7760501238517463
+  rhythmicContrast: 0.9693898479454219
+purpose: []
